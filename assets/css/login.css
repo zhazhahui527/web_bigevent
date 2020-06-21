@@ -44,12 +44,14 @@ body {
   position: relative;
 }
 
+.layui-input {
+  padding-left: 32px;
+}
+
+
 .layui-icon {
   position: absolute;
   left: 10px;
   top: 10px;
 }
 
-.layui-input {
-  padding-left: 32px;
-}
